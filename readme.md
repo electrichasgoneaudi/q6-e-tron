@@ -7,6 +7,8 @@ See Electrichasgoneaudi.net for [full details about Audi Q6 e-tron](https://elec
 **Note :**
 This issues list is not observed by Audi, so you should report all issues to your dealer. You might use this issue as documentation when reporting to your dealer. Then you could add the label 'reported car dealer' or 'reported digital support'. This is the only way to get attention from Audi. But this issues list my be handy for others to see what issues other owners experiences. Of if it maybe will be solved by some future update.
 
+You may not have the access to set tags, in that case just add a comment and that will be done for you
+
 The e-mail address to Digital Support is :
 
 For Norway : digitalsupport.no@audi.de
